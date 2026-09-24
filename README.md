@@ -25,7 +25,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Dcecheck`.
+Working copy from my Historical Dev folder `VB/Old/Dcecheck`.
 Based on Microsoft WMI SDK sample (copyright 1997-1999 Microsoft Corporation). Company name in project file: Microsoft.
 
 ## License
