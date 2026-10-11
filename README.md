@@ -30,4 +30,4 @@ Based on Microsoft WMI SDK sample (copyright 1997-1999 Microsoft Corporation). C
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's modifications. Original Microsoft sample code remains under its original terms. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave Robinson's modifications. Original Microsoft sample code remains under its original terms. See `LICENSE`.
